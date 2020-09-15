@@ -131,9 +131,9 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[link text](https://dev.nodeca.com)
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+[link with title](https://nodeca.github.io/pica/demo/ "title text!")
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
@@ -228,6 +228,8 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 * **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image resize in browser.
 * **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly i18n with plurals support and easy syntax.
+
+[cara hack wifi termux](https://www.artikelcara10.com/cara-hack-wifi-termux-tanpa-root/)
 
 You will like those projects!
 
@@ -359,9 +361,9 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[link text](https://dev.nodeca.com)
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+[link with title](https://nodeca.github.io/pica/demo/ "title text!")
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
