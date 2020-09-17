@@ -9,6 +9,8 @@ This simple website built with GatsbyJS and Netlify CMS. Deploys on netlify with
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/W3Layouts/gatsby-starter-delog)
 
+[AC10 Hacks](https://www.artikelcara10.com/)
+
 Install this starter locally: (assuming you already have [NodeJS and GatsbyJS installed](https://www.gatsbyjs.org/tutorial/part-zero/))
 ```bash
 gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delog
@@ -46,7 +48,7 @@ You need to change repo URL to your own `repo` at `/static/admin/config.yml`, fo
 ### Accessing Netlify CMS Admin
 * Goto your Netlify site admin
 * Goto **Access Control** > **OAuth** then **Install Provider** you need to select provider as `Github` as add `Client ID` and `Secret` 
-* Your Netlify CMS is ready. Goto you netlify site URL and append `/admin/`. for example `example.netlify.com/admin/`, You will see login with Github button.
+* Your Netlify CMS is ready. Goto you netlify site URL and append `/admin/`. for example `example.netlify.com/admin/`, [hack wifi termux](https://www.artikelcara10.com/cara-hack-wifi-termux-tanpa-root/) You will see login with Github button.
 
 ### Managing Blog Posts in Netlify CMS
 * Once logged in you will find all the blog post listed here.
@@ -80,7 +82,7 @@ We are maintaining future task in [Github Project](https://github.com/W3Layouts/
 ## Credits
 - Awesome image used in demo is from [Unsplash](https://unsplash.com)
 - CSS and SVG Icons by [CSS.gg](https://css.gg)
-
+- [cara hack wa](https://www.artikelcara10.com/cara-hack-spy-wa-whatsapp-teman-pacar-terbaru/)
 ---
 
 ## Changelog
